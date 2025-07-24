@@ -68,7 +68,7 @@ Predict which telecom customers are most likely to churn and identify business d
 ---
 ## 🔎 Project Preview (Interactive HTML)
 
-📄 [Click here to view notebook (HTML)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/santoshpal/customer-churn-prediction/Customer_Churn_Prediction_Updated.html)
+📄 [Click here to view notebook (HTML)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Santoshpal47/customer-churn-prediction/main/Customer_Churn_Prediction_Updated.html)
 
 ---
 
