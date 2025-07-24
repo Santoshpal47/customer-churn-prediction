@@ -70,7 +70,7 @@ Predict which telecom customers are most likely to churn and identify business d
 ## 👨‍💻 Author
 
 **Santosh Pal**  
-_Data Analyst • SQL • Python • Tableau_  
+_Data Analyst • SQL • Python • Power BI • Tableau_  
 [LinkedIn](https://www.linkedin.com/in/santosh-pal-08b0bb370) • 
 
 ---
