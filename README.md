@@ -68,7 +68,7 @@ Predict which telecom customers are most likely to churn and identify business d
 ---
 ## 🔎 Project Preview (Interactive HTML)
 
-📄 [Click here to view full notebook (HTML)](https://drive.google.com/file/d/1hMqpLksXFF9TCnQwtEJtj2h9XOs34xu_/view?usp=sharing)
+📄 [Click here to view notebook (HTML)](https://htmlpreview.github.io/?https://drive.google.com/uc?export=download&id=1hMqpLksXFF9TCnQwtEJtj2h9XOs34xu_)
 
 ---
 
