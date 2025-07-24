@@ -52,7 +52,7 @@ Predict which telecom customers are most likely to churn and identify business d
 | File                                | Description                                 |
 |-------------------------------------|---------------------------------------------|
 | `Customer_Churn_Prediction_Updated.ipynb` | Jupyter Notebook with full analysis      |
-| `WA_Fn-UseC_-Telco-Customer-Churn.csv`    | Input dataset                            |
+| `Customer_Churn_prediction.csv`    | Input dataset                            |
 | `TelcoCustomerChurnProject.sql`             | SQL cohort queries                        |
 | `Customer_Churn_Prediction_Updated.html`  | Notebook rendered as HTML                |
 | `README.md`                              | Project documentation                     |
