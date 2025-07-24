@@ -1,4 +1,4 @@
-# 📊 customer-churn-prediction (SQL + Python)
+# 📊 Customer Churn Prediction (SQL + Python)
 
 A data-driven project to identify and analyze customer churn patterns using SQL and Python. This end-to-end solution includes data extraction, EDA, model building, and actionable business insights — ideal for retention strategy planning.
 
