@@ -66,6 +66,11 @@ Predict which telecom customers are most likely to churn and identify business d
 - Visuals: Countplots, boxplots, histograms
 
 ---
+## 🔎 Project Preview (Interactive HTML)
+
+📄 [Click here to view full notebook (HTML)](https://drive.google.com/file/d/1hMqpLksXFF9TCnQwtEJtj2h9XOs34xu_/view?usp=sharing)
+
+---
 
 ## 👨‍💻 Author
 
